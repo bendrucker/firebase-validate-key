@@ -1,0 +1,33 @@
+{
+  "name": "firebase-validate-key",
+  "version": "1.0.0",
+  "description": "Validate that a string is a valid Firebase key",
+  "main": "./src",
+  "scripts": {
+    "test": "babel-tape-runner test/*.js",
+    "build": "babel ./src -d ./lib --optional runtime"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bendrucker/firebase-validate-key.git"
+  },
+  "keywords": [
+    "firebase",
+    "key",
+    "validation"
+  ],
+  "author": "Ben Drucker <bvdrucker@gmail.com> (http://www.bendrucker.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bendrucker/firebase-validate-key/issues"
+  },
+  "homepage": "https://github.com/bendrucker/firebase-validate-key#readme",
+  "dependencies": {
+    "babel-runtime": "^5.0.0"
+  },
+  "devDependencies": {
+    "babel": "~5.1.13",
+    "babel-tape-runner": "~1.1.0",
+    "tape": "~4.0.0"
+  }
+}
