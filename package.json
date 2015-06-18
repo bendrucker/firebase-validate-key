@@ -1,6 +1,6 @@
 {
   "name": "firebase-validate-key",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Validate that a string is a valid Firebase key",
   "main": "index.js",
   "scripts": {
