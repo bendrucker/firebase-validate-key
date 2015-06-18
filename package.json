@@ -27,5 +27,9 @@
   "devDependencies": {
     "standard": "~4.3.1",
     "tape": "~4.0.0"
-  }
+  },
+  "files": [
+    "index.js",
+    "readme.md"
+  ]
 }
