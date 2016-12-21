@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-$ npm install --savefirebase-validate-key
+$ npm install --save firebase-validate-key
 ```
 
 ## Usage
