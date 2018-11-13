@@ -1,4 +1,4 @@
-# firebase-validate-key [![Build Status](https://travis-ci.org/bendrucker/firebase-validate-key.svg?branch=master)](https://travis-ci.org/bendrucker/firebase-validate-key)
+# firebase-validate-key [![Build Status](https://travis-ci.org/bendrucker/firebase-validate-key.svg?branch=master)](https://travis-ci.org/bendrucker/firebase-validate-key) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/firebase-validate-key.svg)](https://greenkeeper.io/)
 
 > Validate that a string is a valid Firebase key
 
